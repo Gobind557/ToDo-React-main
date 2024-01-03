@@ -1,6 +1,6 @@
 # To-Do App
 
-![Screenshot 2023-10-20 025047](.Images/login.png)
+![Screenshot 2023-10-20 025047](..Images/login.png)
 
 **Summary**
 
