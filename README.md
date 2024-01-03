@@ -66,17 +66,8 @@ This will launch the frontend application on http://localhost:5173.
 4. Push your changes to your fork.
 5. Create a pull request to this repository.
 
-## Contact
-If you have any questions or feedback, feel free to reach out to me:
 
-## Contact
 
-You can reach me on the following social media platforms:
 
-- [Instagram](https://www.instagram.com/s4chin_verma/)
-- [LinkedIn](https://www.linkedin.com/in/sachin-verma-2951bb209/)
-- [GitHub](https://github.com/s4chin-verma)
 
-Feel free to connect with me or follow for updates!
 
-## Happy Development 👍😺🖤
