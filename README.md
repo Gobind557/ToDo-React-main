@@ -1,6 +1,6 @@
 # To-Do App
 
-![Screenshot 2023-10-20 025047](https://github.com/s4chin-verma/ToDo-React/assets/101526717/cde8ff81-cc55-44e2-bdd0-d439a492720c)
+![Screenshot 2023-10-20 025047](https://github.com/Gobind557/ToDo-React-main/blob/main/login.png)
 
 **Summary**
 
@@ -66,15 +66,12 @@ This will launch the frontend application on http://localhost:5173.
 4. Push your changes to your fork.
 5. Create a pull request to this repository.
 
-## Contact
-If you have any questions or feedback, feel free to reach out to me:
-
-## Contact
-
-You can reach me on the following social media platforms:
 
 
 
-Feel free to connect with me or follow for updates!
+<<<<<<< HEAD
 
-## Happy Development 👍😺🖤
+=======
+>>>>>>> c0f95d59eb57326777dfdcf88f2c095f9f38800a
+
+
