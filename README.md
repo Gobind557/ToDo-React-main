@@ -1,7 +1,7 @@
 # To-Do App
 
-![Screenshot 2023-10-20 025047](![login](https://github.com/Gobind557/ToDo-React-main/assets/72307219/7c811e49-8a54-4cab-ad94-1696be22e730)
-)
+![login](https://github.com/Gobind557/ToDo-React-main/assets/72307219/7c811e49-8a54-4cab-ad94-1696be22e730)
+
 
 **Summary**
 
