@@ -62,22 +62,5 @@ This will launch the frontend application on http://localhost:5173.
    npx nodemon index.js
    
 
-## Contributing
-
-**Contributions to this project are welcome! If you'd like to contribute, please follow these steps:**
-
-1. Fork the project.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Create a pull request to this repository.
-
-
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> c0f95d59eb57326777dfdcf88f2c095f9f38800a
 
 
